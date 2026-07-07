@@ -2,18 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Fragmentos Manga y Anime</title>
-    <link>http://localhost:1313/mangayanime/</link>
+    <link>https://ernestoallely.github.io/mangayanime/</link>
     <description>Recent content on Fragmentos Manga y Anime</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 07 Jul 2026 07:54:53 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/mangayanime/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Primer Post</title>
-      <link>http://localhost:1313/mangayanime/posts/primer-post/</link>
-      <pubDate>Tue, 07 Jul 2026 07:54:53 +0200</pubDate>
-      <guid>http://localhost:1313/mangayanime/posts/primer-post/</guid>
-      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello world!&lt;/h1&gt;</description>
-    </item>
+    <atom:link href="https://ernestoallely.github.io/mangayanime/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

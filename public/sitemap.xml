@@ -2,17 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/mangayanime/</loc>
-    <lastmod>2026-07-07T07:54:53+02:00</lastmod>
+    <loc>https://ernestoallely.github.io/mangayanime/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/mangayanime/posts/</loc>
-    <lastmod>2026-07-07T07:54:53+02:00</lastmod>
+    <loc>https://ernestoallely.github.io/mangayanime/</loc>
   </url><url>
-    <loc>http://localhost:1313/mangayanime/posts/primer-post/</loc>
-    <lastmod>2026-07-07T07:54:53+02:00</lastmod>
+    <loc>https://ernestoallely.github.io/mangayanime/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/mangayanime/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/mangayanime/tags/</loc>
+    <loc>https://ernestoallely.github.io/mangayanime/tags/</loc>
   </url>
 </urlset>
