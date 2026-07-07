@@ -1,0 +1,4 @@
+baseURL = 'https://ernestoallely.github.io/mangayanime'
+locale = 'es-es'
+title = 'Fragmentos Manga y Anime'
+theme = "PaperMod"
